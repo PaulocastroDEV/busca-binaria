@@ -21,6 +21,9 @@ Este é um projeto tem como objetivo aplicar a busca binária, em um array de in
 
  1. Inicie o projeto e digite o numero que quer buscar no parametro valorBuscado, se ele encontrar irá retornar a posicao, se não irá retornar -1;
  
+## Complexidade
+ A complexidade desse algoritmo é log2^N = lg N
+
 ## Autor
 
  Paulo Gustavo
